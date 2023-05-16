@@ -1,2 +1,2 @@
 # csnake
-A snake remake in C# and console
+A snake remake in console C#
